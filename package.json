@@ -12,11 +12,15 @@
     "library",
     "fhq",
     "freehackquest",
-    "websocket",
+    "websocket"
   ],
   "bugs": {
     "url": "https://github.com/freehackquest/libfhqcli-web-js/issues"
   },
-  "author": "FreeHackQuest Teams",
+  "author": "FreeHackQuest Team",
   "license": "MIT"
+  "licenses": [
+    "type": "MIT",
+    "url": "https://github.com/freehackquest/libfhqcli-web-js/blob/master/LICENSE"
+  ]
 }
