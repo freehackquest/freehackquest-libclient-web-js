@@ -1,0 +1,22 @@
+{
+  "name": "libfhqcli-web-js",
+  "version": "0.0.1",
+  "description": "FreeHackQuest JavaScript Web Client Library for fhq-server",
+  "main": "dist/libfhqcli-web.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freehackquest/libfhqcli-web-js.git"
+  },
+  "keywords": [
+    "browser",
+    "library",
+    "fhq",
+    "freehackquest",
+    "websocket",
+  ],
+  "bugs": {
+    "url": "https://github.com/freehackquest/libfhqcli-web-js/issues"
+  },
+  "author": "FreeHackQuest Teams",
+  "license": "MIT"
+}
