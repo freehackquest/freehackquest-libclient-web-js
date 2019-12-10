@@ -8,7 +8,7 @@
             log.innerHTML += '[' + new Date() + '] ' + n + '\r\n';
         };
         document.addEventListener('DOMContentLoaded', function() {
-            fhq.bind('notify', function(data){
+            fhq.bind('notify', function(data) {
                 log('notify: ' + JSON.stringify(data))
             });
             fhq.bind('connected', function(data) {
