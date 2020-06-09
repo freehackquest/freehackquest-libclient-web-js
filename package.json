@@ -1,6 +1,6 @@
 {
   "name": "libfhqcli-web-js",
-  "version": "v0.2.27",
+  "version": "v0.2.29",
   "description": "FreeHackQuest JavaScript Web Client Library for fhq-server",
   "main": "dist/libfhqcli-web-js.js",
   "repository": {
