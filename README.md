@@ -1,15 +1,15 @@
-# libfhqcli-web-js
+# freehackquest-libclient-web-js
 
 JavaScript Client Library for fhq-server: [https://github.com/freehackquest/fhq-server.git](https://github.com/freehackquest/fhq-server.git)
 
 
 ## Install
 ```
-npm install --save libfhqcli-web-js
+npm install --save freehackquest-libclient-web-js
 ```
 ## Example code
 
-Include script ```dist/libfhqcli-web-js.js```
+Include script ```dist/freehackquest-libclient-web-js.js```
 
 ```
 fhq.bind('notify', function(data){
@@ -36,4 +36,4 @@ fhq.init({
 // for disconnect call fhq.deinit()
 ```
 
-After success connection you can call [API.md](https://github.com/freehackquest/libfhqcli-web-js/blob/master/API.md)
+After success connection you can call [API.md](https://github.com/freehackquest/freehackquest-libclient-web-js/blob/master/API.md)
