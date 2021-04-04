@@ -1,6 +1,6 @@
 # freehackquest-libclient-web-js
 
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/freehackquest/freehackquest-libclient-web-js.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/freehackquest/freehackquest-libclient-web-js/alerts/) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/freehackquest/freehackquest-libclient-web-js.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/freehackquest/freehackquest-libclient-web-js/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/freehackquest/freehackquest-libclient-web-js.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/freehackquest/freehackquest-libclient-web-js/alerts/) [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/freehackquest/freehackquest-libclient-web-js.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/freehackquest/freehackquest-libclient-web-js/context:javascript) [![npm](https://img.shields.io/npm/v/freehackquest-libclient-web-js)](https://www.npmjs.com/package/freehackquest-libclient-web-js)
 
 JavaScript Client Library for fhq-server: [https://github.com/freehackquest/fhq-server.git](https://github.com/freehackquest/fhq-server.git)
 
