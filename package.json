@@ -1,6 +1,6 @@
 {
   "name": "freehackquest-libclient-web-js",
-  "version": "v0.2.40",
+  "version": "v0.2.47",
   "description": "FreeHackQuest JavaScript Web Client Library for fhq-server",
   "main": "dist/freehackquest-libclient-web-js.js",
   "repository": {
